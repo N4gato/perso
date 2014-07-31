@@ -1,0 +1,4 @@
+Nagato
+======
+
+My personnal website.

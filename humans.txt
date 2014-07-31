@@ -1,0 +1,15 @@
+/* AUTHOR */
+
+	Name 		: Bouayad Otmane
+	Role 		: Front/Back End Developer
+	EMail		: bouayad.n4[at]gmail.com	
+	Facebook  	: https://www.facebook.com/otmane.bouayad.9
+	From 		: Fez, Morocco
+	
+
+/* TECHNOLOGY */
+
+	HTML5, CSS3, Bootstrap, Boilerplate, jQuery, GruntJS
+	IDE: Sublime Text, FileZilla, Photoshop, Illustrator
+
+
